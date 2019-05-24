@@ -1,6 +1,12 @@
-## Your Name
+## Anna Sobolewska
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/addyourshere) | [Website](url)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+**Tech skills** : Ruby, Rails, CSS, HTML, PostgreSQL
+
+## Projects
 
 ## Skills
 
@@ -21,6 +27,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Additional skills
+
+- Methodologies: Agile, TDD, 
+- Languages: 
+  * Polish: native fluency
+  * English: full professional fluency
+  * Swedish: working knowledge
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
@@ -34,10 +48,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Gdańsk (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
+- BA Scandinavian Studies, Swedish major
+- 2:1
 - Other cool stuff
 
 #### Any other qualifications
