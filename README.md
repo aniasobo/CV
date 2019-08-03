@@ -48,7 +48,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Additional skills
 
 **Methodologies:**  
-* OOP, FP, MVC
+* OOP, FP 
+* MVC, ORM
 * TDD, BDD
 * Agile, SCRUM, kanban
 * Continuous Integration, Continuous Deployment
