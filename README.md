@@ -14,7 +14,14 @@ I became a developer because I love solving problems, making things work and opt
 / 　 づ
 ```
 
-**Tech skills** : Ruby, Rails, CSS, HTML, PostgreSQL
+**💥 Tech skills:**  
+* JavaScript, Node.js, Express
+* Ruby, Rails, Sinatra
+* SQL, PostGres, ORMs
+* CSS, semantic HTML 
+* CI/CD tools, Heroku
+* RSpec, Capybara, Jasmine, Selenium, Pry
+
 
 ## Projects
 
@@ -40,8 +47,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Additional skills
 
-- Methodologies: Agile, TDD, 
-- Languages: 
+**Methodologies:**  
+* TDD, BDD
+* Agile, SCRUM, kanban
+* Continuous Integration, Continuous Deployment
+* User-centered design
+
+**Languages:**   
   * Polish: native fluency
   * English: full professional fluency
   * Swedish: working knowledge
