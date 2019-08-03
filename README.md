@@ -1,8 +1,19 @@
-## Anna Sobolewska
+## ANNA SOBOLEWSKA
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/addyourshere) | [Website](url)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I became a developer because I love solving problems, making things work and optimising the hard parts of life.  
+
+```
+|￣￣￣￣￣|
+|          | 
+| HIRE ME  | 
+|          | 
+| ＿＿＿＿_| 
+(\__/) || 
+(•ㅅ•) || 
+/ 　 づ
+```
 
 **Tech skills** : Ruby, Rails, CSS, HTML, PostgreSQL
 
@@ -10,7 +21,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+
+#### Fast learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -18,7 +30,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Graceful critic
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
