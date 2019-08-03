@@ -48,10 +48,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Additional skills
 
 **Methodologies:**  
+* OOP, FP, MVC
 * TDD, BDD
 * Agile, SCRUM, kanban
 * Continuous Integration, Continuous Deployment
 * User-centered design
+* XP values
 
 **Languages:**   
   * Polish: native fluency
@@ -65,11 +67,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### University of Gdańsk (start_date to end_date)
 
