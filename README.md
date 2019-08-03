@@ -6,8 +6,8 @@ I became a developer because I love solving problems, making things work and opt
 
 ```
 |￣￣￣￣￣￣ |
-|   HIRE ME   |
-|             |
+|           |
+|  HIRE ME  |
 | ＿＿＿＿＿__| 
 (\__/) || 
 (•ㅅ•) || 
