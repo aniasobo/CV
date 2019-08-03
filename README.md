@@ -5,11 +5,10 @@
 I became a developer because I love solving problems, making things work and optimising the hard parts of life.  
 
 ```
-|￣￣￣￣￣|
-|         | 
-| HIRE ME | 
-|         | 
-| ＿＿＿＿_| 
+|￣￣￣￣￣￣ |
+|   HIRE ME   |
+|             |
+| ＿＿＿＿＿__| 
 (\__/) || 
 (•ㅅ•) || 
 / 　 づ
