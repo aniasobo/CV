@@ -17,7 +17,8 @@ I became a developer because I love solving problems, making things work and opt
 **💥 Tech skills:**  
 * JavaScript, Node.js, Express
 * Ruby, Rails, Sinatra
-* SQL, PostGres, ORMs
+* Python
+* SQL, PostGres, ORM
 * CSS, semantic HTML 
 * CI/CD tools, Heroku
 * RSpec, Capybara, Jasmine, Selenium, Pry
@@ -28,7 +29,7 @@ I became a developer because I love solving problems, making things work and opt
 ## Skills
 
 
-#### Fast learner
+### Fast learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -36,7 +37,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Graceful critic
+### Graceful critic
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -45,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Additional skills
+### Additional skills
 
 **Methodologies:**  
 * OOP, FP 
@@ -57,8 +58,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * XP values
 
 **Languages:**   
-  * Polish: native fluency
   * English: full professional fluency
+  * Polish: native fluency
   * Swedish: working knowledge
 
 ## Education
@@ -83,3 +84,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## Hobbies and interests
+
+Horse riding, birding, reading books and comics, writing, linguistics, taking long walks.
