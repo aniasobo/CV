@@ -1,9 +1,8 @@
 ## ANNA SOBOLEWSKA
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/addyourshere) | [Website](url)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](url)
 
-I became a developer because I love solving problems, making things work and automating the hard parts of life. Hi!  
-
+I became a developer because I love solving problems, making things work and automating the hard parts of life.
 
 
 ```
@@ -16,12 +15,13 @@ I became a developer because I love solving problems, making things work and aut
 / 　 づ
 ```
 
+
 **💥 Tech skills:**  
-* JavaScript, Node.js, Express  <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/JavaScript-144%20commits-orange.svg" alt=""></a>  
-* Ruby, Rails, Sinatra <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Ruby-348%20commits-orange.svg" alt=""></a>  
-* Python  <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>  
-* SQL, PostGres, ORM  <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/SQL-90%20commits-orange.svg" alt=""></a>  
-* CSS, semantic HTML <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/CSS-241%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/HTML-138%20commits-orange.svg" alt=""></a>
+* JavaScript, Node.js, Express    
+* Ruby, Rails, Sinatra   
+* Python  
+* SQL, PostGres, ORM  
+* CSS, semantic HTML 
 * RSpec, Capybara, Jasmine, Selenium, Pry and more
 * CI/CD tools, Heroku
 
@@ -34,6 +34,8 @@ I became a developer because I love solving problems, making things work and aut
 
 ## Skills
 
+
+<a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/JavaScript-144%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Ruby-348%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/SQL-90%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/CSS-241%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/HTML-138%20commits-orange.svg" alt=""></a>  
 
 ### Fast learner
 
@@ -52,6 +54,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+---
+
 ### Additional skills
 
 **Methodologies:**  
@@ -68,32 +72,45 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   * Polish: native fluency
   * Swedish: working knowledge
 
+---
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (graduated August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-#### University of Gdańsk (start_date to end_date)
+#### International Software Testing Qualifications Board (awarded February 2010) 
+
+- ISTQB Certified Tester - Foundational level  
+
+#### University of Gdańsk (graduated May 2008)
 
 - BA Scandinavian Studies, Swedish major
 - 2:1
-- Other cool stuff
-
-#### Any other qualifications
 
 ## Experience
 
-**[Terrence Higgins Trust](https://www.tht.org.uk/), London, UK** (December 2014 - May 2019)    
-*Digital Content & Quality Officer*  
-**[Future Workshops](https://www.fws.io/), London, UK** (April 2012 - December 2013)   
-*Quality Assurance Specialist*  
-**[Nokaut.pl](http://www.nokaut.pl/), Gdynia, Poland** (February 2009 - March 2012)   
-*Quality Assurance Specialist*
-**[Self-employed](https://www.upwork.com/o/profiles/users/_~018800be9d6c5bc584/), remote** (July 2005 - May 2019)   
-*Part-time freelance copywriter & translator*
+**[Terrence Higgins Trust](https://www.tht.org.uk/), London, UK**      
+*Digital Content & Quality Officer, (December 2014 - May 2019)*  
+My role involved owning and maintaining the health-related copy of the website, from user research, through writing and editing, to online presentation, CMS work and the analysis of digital metrics.  
+
+**[Future Workshops](https://www.fws.io/), London, UK**    
+*Quality Assurance Specialist, (April 2012 - December 2013)*   
+Testing, test strategy and test automation of the company's portfolio of mobile apps, plus ad hoc UX support.  
+
+**[Nokaut.pl](http://www.nokaut.pl/), Gdynia, Poland**    
+*Quality Assurance Specialist, (February 2009 - March 2012)*  
+My first foray into the tech world - I started off as a functional tester, then moved on to Selenium IDE and other test automation tools.  
+
+**[Self-employed](https://www.upwork.com/o/profiles/users/_~018800be9d6c5bc584/), remote**    
+*Freelance copywriter & translator, (July 2005 - May 2019)*  
+An occassional side gig that I'd started as a student. I maintained several trusted clients through the years while honing my copywriting and copyediting skills.  
+
+**Too many bartending jobs to count, London, UK**
+I can still mix an amazing Sazerac.  
 
 ## Hobbies and interests
 
