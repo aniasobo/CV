@@ -6,7 +6,7 @@ I became a developer because I love solving problems, making things work and aut
   
 My professional adventures in tech started with a QA Tester job at an e-commerce product company. I then made my way to a busy digital agency, switching from desktop products to applications designed for mobile devices of all kinds.  
   
-While working within an Agile team of developers, designers and product owners, I caught the UX bug and moved on to the 3rd sector to spend more time researching users and ways to reach them. The desire to make things happen is what led me to coding. 
+While working within an Agile team of developers, designers and product owners, I caught the UX bug and moved on to the 3rd sector to spend more time researching users and ways to reach them. My desire to make things happen is what subsequently led me to coding. 
 
 
 ```
@@ -29,17 +29,23 @@ While working within an Agile team of developers, designers and product owners, 
 * RSpec, Capybara, Jasmine, Selenium, Pry and more
 * CI/CD tools, Heroku
 
+---
+
 ## Projects
 
-* [Forest](https://github.com/lucianmot/f.rest) - my Makers final project. Forest is an esoteric programming language written in pure Python, tested with Python's unittest framework.
-* [Acebook](https://github.com/bengscott2/acebook-livewire) - a Facebook clone; team project built in Rails, with focus on Rails-associated gems, as well as the TDD and Agile methodologies.
-* [Bank app](https://github.com/aniasobo/tech-test-bank) - a tiny command line piggy bank written in Ruby. The focus of Bank was practicing my TDD and correct OOP design.
-* []
+| Project repo | Synopsis | Tech stack | Methodologies practiced |   
+| --- | --- | --- | --- |  
+| [Forest](https://github.com/lucianmot/f.rest) | an esoteric programming language - Makers final project | vanilla Python, Python's unittest framework, bash scripting | TDD, Agile, kanban, mob coding, meta programming |  
+| [Acebook](https://github.com/bengscott2/acebook-livewire) | a Facebook clone; Makers team engineering project | Rails, Rails-associated gems, CSS, HTML, JQuery, Rake, Travis, Heroku | BDD, TDD, Agile, CI, CD |  
+| [Bank app](https://github.com/aniasobo/tech-test-bank) | a tiny command line piggy bank | Ruby, RSpec | OOP design, encapsulation, TDD |  
+
+---
 
 ## Skills
 
 
 <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/JavaScript-144%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Ruby-348%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/SQL-90%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/CSS-241%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/HTML-138%20commits-orange.svg" alt=""></a>  
+
 
 ### Fast learner
 
