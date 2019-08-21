@@ -2,7 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](url)
 
-I became a developer because I love solving problems, making things work and automating the hard parts of life.
+I became a developer because I love solving problems, making things work and automating the hard parts of life. Hi!  
+  
+My professional adventures in tech started with a QA Tester job at an e-commerce product company. I then made my way to a busy digital agency, switching from desktop products to applications designed for mobile devices of all kinds.  
+  
+While working within an Agile team of developers, designers and product owners, I caught the UX bug and moved on to the 3rd sector to spend more time researching users and ways to reach them. The desire to make things happen is what led me to coding. 
 
 
 ```
@@ -95,23 +99,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **[Terrence Higgins Trust](https://www.tht.org.uk/), London, UK**      
 *Digital Content & Quality Officer, (December 2014 - May 2019)*  
+  
 My role involved owning and maintaining the health-related copy of the website, from user research, through writing and editing, to online presentation, CMS work and the analysis of digital metrics.  
 
 **[Future Workshops](https://www.fws.io/), London, UK**    
 *Quality Assurance Specialist, (April 2012 - December 2013)*   
+  
 Testing, test strategy and test automation of the company's portfolio of mobile apps, plus ad hoc UX support.  
 
 **[Nokaut.pl](http://www.nokaut.pl/), Gdynia, Poland**    
 *Quality Assurance Specialist, (February 2009 - March 2012)*  
+  
 My first foray into the tech world - I started off as a functional tester, then moved on to Selenium IDE and other test automation tools.  
 
 **[Self-employed](https://www.upwork.com/o/profiles/users/_~018800be9d6c5bc584/), remote**    
 *Freelance copywriter & translator, (July 2005 - May 2019)*  
+  
 An occassional side gig that I'd started as a student. I maintained several trusted clients through the years while honing my copywriting and copyediting skills.  
 
-**Too many bartending jobs to count, London, UK**
-I can still mix an amazing Sazerac.  
-
+  
 ## Hobbies and interests
 
 Birding, animal training, horse riding, reading books and comics, writing, linguistics, taking long walks.
