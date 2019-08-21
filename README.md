@@ -47,22 +47,31 @@ While working within an Agile team of developers, designers and product owners, 
 <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/JavaScript-144%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Ruby-348%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/SQL-90%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/CSS-241%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/HTML-138%20commits-orange.svg" alt=""></a>  
 
 
-### Fast learner
+### Cross-team Agile experience
+
+My professional background includes a variety of roles within Agile teams.
+
+- 5+ years of hands-on Quality Assurance experience
+- 5 years of UX/user research and web content experience
+- Familiarity with all stages of product development, from discovery and user research, through design and development to test strategy and implementation
+- Good business sense, acquired in close proximity to Clients, Product Owners and IT Directors
+
+### Fast, self-directed learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+- For my final Makers project, I picked up Python - a programming language previously unknown to me - and started TDDing in it within 2 days
+- Known for spearheading constant process improvement in all my previous jobs
+- Early adopter, techno-optimist, hardware tinkerer
 
-### Graceful critic
+### Product company, digital agency and NGO experience
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I worked in organisations of vastly different types, structures and dynamics, thriving in all of them.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Product company: I was the sole QA at an e-commerce website, responsible for the long-term testing strategy and automation. 
+- Agency: I worked on a portfolio of mobile applications at a busy digital agency, in close proximity with both the team and external stakeholders.
+- Third sector: my NGO experience taught me to work within tight budgets, make good cases for the use of certain tools and most of all - to listen to users and be their advocate.   
+- Freelance work: occassional but steady freelance work has taught me the discipline necessary for being effective while being remote, and sharpened my time-management skills.
 
 ---
 
@@ -106,17 +115,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **[Terrence Higgins Trust](https://www.tht.org.uk/), London, UK**      
 *Digital Content & Quality Officer, (December 2014 - May 2019)*  
   
-My role involved owning and maintaining the health-related copy of the website, from user research, through writing and editing, to online presentation, CMS work and the analysis of digital metrics.  
+My pivot to UX and web content writing. I own and maintain the health-related copy of the website, conduct user research, work with subject matter experts, perform CMS work, and analyse website metrics.  
 
 **[Future Workshops](https://www.fws.io/), London, UK**    
 *Quality Assurance Specialist, (April 2012 - December 2013)*   
   
-Testing, test strategy and test automation of the company's portfolio of mobile apps, plus ad hoc UX support.  
+Testing, test strategy and test automation of the company's portfolio of mobile apps, plus ad hoc UX support. I become closely familiar with bug tracking and ticketing tools such as JIRA and Basecamp. I discover I'm a natural at communicating the nuances of business logic and project documentation to technical and non-technical team members.  
 
 **[Nokaut.pl](http://www.nokaut.pl/), Gdynia, Poland**    
 *Quality Assurance Specialist, (February 2009 - March 2012)*  
   
-My first foray into the tech world - I started off as a functional tester, then moved on to Selenium IDE and other test automation tools.  
+My first foray into the tech world - I start off as a functional tester, then move on to Selenium IDE and other test automation tools. I learn SQL, XML and JSON. I also become familiar with debugging tools, version control and continuous integration tools. Agile becomes second nature. 
 
 **[Self-employed](https://www.upwork.com/o/profiles/users/_~018800be9d6c5bc584/), remote**    
 *Freelance copywriter & translator, (July 2005 - May 2019)*  
