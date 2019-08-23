@@ -38,6 +38,8 @@ While working within an Agile team of developers, designers and product owners, 
 | [Forest](https://github.com/lucianmot/f.rest) | an esoteric programming language - Makers final project | vanilla Python, Python's unittest framework, bash scripting | TDD, Agile, kanban, mob coding, meta programming |  
 | [Acebook](https://github.com/bengscott2/acebook-livewire) | a Facebook clone; Makers team engineering project | Rails, Rails-associated gems, CSS, HTML, JQuery, Rake, Travis, Heroku | BDD, TDD, Agile, CI, CD |  
 | [Bank app](https://github.com/aniasobo/tech-test-bank) | a tiny command line piggy bank | Ruby, RSpec | OOP design, encapsulation, TDD |  
+| [News summary](https://github.com/aniasobo/news-summary-challenge) | a very tiny news summary web app | vanilla JavaScript, CSS | API integration, testing with own framework, API stubbing |  
+
 
 ---
 
@@ -78,8 +80,10 @@ I worked in organisations of vastly different types, structures and dynamics, th
 ### Additional skills
 
 **Methodologies:**  
-* OOP, FP 
-* MVC, ORM
+* Object-oriented programming, Functional programming 
+* MVC, PWA, serverless patterns 
+* REST, CRUD
+* ORM, database modelling, CRC
 * TDD, BDD
 * Agile, SCRUM, kanban
 * Continuous Integration, Continuous Deployment
@@ -97,9 +101,7 @@ I worked in organisations of vastly different types, structures and dynamics, th
 
 #### Makers Academy (graduated August 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- [my full Makers portfolio](https://github.com/aniasobo/portfolio)
 
 #### International Software Testing Qualifications Board (awarded February 2010) 
 
