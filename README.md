@@ -54,26 +54,26 @@ While working within an Agile team of developers, designers and product owners, 
 
 My professional background includes a variety of roles within Agile teams.
 
-- 5+ years of hands-on Quality Assurance experience
-- 5 years of UX/user research and web content experience
-- Familiarity with all stages of product development, from discovery and user research, through design and development to test strategy and implementation
-- Good business sense, acquired in close proximity to Clients, Product Owners and IT Directors
+- 5+ years of hands-on Quality Assurance experience.
+- 5 years of UX/user research and web content experience.
+- Familiarity with all stages of product development, from discovery and user research, through design and development to test strategy and implementation.
+- Good business sense, acquired in close proximity to Clients, Product Owners and IT Directors.
 
 ### Fast, self-directed learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I love being a Jane of many trades and finding unexpected connections between unrelated things.
 
-- For my final Makers project, I picked up Python - a programming language previously unknown to me - and started TDDing in it within 2 days
-- Known for spearheading constant process improvement in all my previous jobs
-- Early adopter, techno-optimist, hardware tinkerer
+- For my final Makers project, I picked up Python - a programming language previously unknown to me - and started TDDing in it within 2 days.
+- Known for spearheading constant process improvement in all my previous jobs.
+- Early adopter, techno-optimist, hardware tinkerer.
 
 ### Product company, digital agency and NGO experience
 
-I worked in organisations of vastly different types, structures and dynamics, thriving in all of them.
+I worked in organisations of vastly different types, structures and dynamics, and thrived in all of them.
 
 - Product company: I was the sole QA at an e-commerce website, responsible for the long-term testing strategy and automation. 
 - Agency: I worked on a portfolio of mobile applications at a busy digital agency, in close proximity with both the team and external stakeholders.
-- Third sector: my NGO experience taught me to work within tight budgets, make good cases for the use of certain tools and most of all - to listen to users and be their advocate.   
+- Third sector: my NGO experience taught me to work within tight budgets, make good cases for the use of certain tools and most of all - to listen to users and to be their advocate.   
 - Freelance work: occassional but steady freelance work has taught me the discipline necessary for being effective while being remote, and sharpened my time-management skills.
 
 ---
@@ -100,15 +100,15 @@ I worked in organisations of vastly different types, structures and dynamics, th
 
 ## Education
 
-#### Makers Academy (graduated August 2019)
+#### [Makers Academy](https://makers.tech/) (graduated August 2019)
 
 - [my full Makers portfolio](https://github.com/aniasobo/portfolio)
 
-#### International Software Testing Qualifications Board (awarded February 2010) 
+#### [International Software Testing Qualifications Board](https://www.istqb.org/) (awarded February 2010) 
 
 - ISTQB Certified Tester - Foundational level  
 
-#### University of Gdańsk (graduated May 2008)
+#### [University of Gdańsk](https://en.ug.edu.pl/) (graduated May 2008)
 
 - BA Scandinavian Studies, Swedish major
 - 2:1
