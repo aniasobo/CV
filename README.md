@@ -24,7 +24,7 @@ While working within an Agile team of developers, designers and product owners, 
 * JavaScript, Node.js, Express    
 * Ruby, Rails, Sinatra   
 * Python  
-* SQL, PostGres, ORM  
+* SQL, PostGres
 * CSS, semantic HTML 
 * RSpec, Capybara, Jasmine, Selenium, Pry and more
 * CI/CD tools, Heroku
@@ -33,10 +33,11 @@ While working within an Agile team of developers, designers and product owners, 
 
 ## Projects
 
-| Project repo | Synopsis | Tech stack | Methodologies practiced |   
+| Project repo | Synopsis | Tech used | Methodologies practiced |   
 | --- | --- | --- | --- |  
 | [Forest](https://github.com/lucianmot/f.rest) | an esoteric programming language - Makers final project | vanilla Python, Python's unittest framework, bash scripting | TDD, Agile, kanban, mob coding, meta programming |  
 | [Acebook](https://github.com/bengscott2/acebook-livewire) | a Facebook clone; Makers team engineering project | Rails, Rails-associated gems, CSS, HTML, JQuery, Rake, Travis, Heroku | BDD, TDD, Agile, CI, CD |  
+| [Bear](https://github.com/aniasobo/bear) | CSS animation, plus database (in progress) | CSS, HTML, Sinatra, Postgres, Heroku | database design, MVC pattern, Heroku deployment |  
 | [Bank app](https://github.com/aniasobo/tech-test-bank) | a tiny command line piggy bank | Ruby, RSpec | OOP design, encapsulation, TDD |  
 | [News summary](https://github.com/aniasobo/news-summary-challenge) | a very tiny news summary web app | vanilla JavaScript, CSS | API integration, testing with own framework, API stubbing |  
 
