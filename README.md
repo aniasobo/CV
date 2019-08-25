@@ -47,7 +47,7 @@ While working within an Agile team of developers, designers and product owners, 
 ## Skills
 
 
-<a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/JavaScript-144%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Ruby-348%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/SQL-90%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/CSS-241%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/HTML-138%20commits-orange.svg" alt=""></a>  
+<!-- <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/JavaScript-144%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Ruby-348%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/SQL-90%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/CSS-241%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/aniasobo"><img src="https://img.shields.io/badge/HTML-138%20commits-orange.svg" alt=""></a>   -->
 
 
 ### Cross-team Agile experience
@@ -138,4 +138,4 @@ An occassional side gig that I'd started as a student. I maintained several trus
   
 ## Hobbies and interests
 
-Birding, animal training, horse riding, reading books and comics, writing, linguistics, taking long walks.
+Birding, horse riding, reading books and comics, writing, linguistics, taking long walks.
