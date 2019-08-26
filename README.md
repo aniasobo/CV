@@ -185,6 +185,8 @@ I worked in organisations of vastly different types, structures and dynamics, an
 - BA Scandinavian Studies, Swedish major
 - 2:1
 
+---
+
 ## Experience
 
 **[Terrence Higgins Trust](https://www.tht.org.uk/), London, UK**      
@@ -207,7 +209,8 @@ My first foray into the tech world - I start off as a functional tester, then mo
   
 An occassional side gig that I'd started as a student. I maintained several trusted clients through the years while honing my copywriting and copyediting skills.  
 
-  
+---
+
 ## Hobbies and interests
 
 Birding, horse husbandry, reading books and comics, writing, linguistics, picking up impractical skills, taking long walks.
