@@ -100,7 +100,7 @@ While working within an Agile team of developers, designers and product owners, 
           
            
          
-         
+             
 ---
 
 ### 📠 [News summary](https://github.com/aniasobo/news-summary-challenge) - a very biased, tiny news summary web app 
