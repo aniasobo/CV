@@ -61,10 +61,8 @@ While working within an Agile team of developers, designers and product owners, 
 * BDD, TDD 
 * Agile, teamwork 
 * Continous integration, continuous deployment
-  <pre>
 
 
-</pre>
 
 ---
 
@@ -95,12 +93,9 @@ While working within an Agile team of developers, designers and product owners, 
 * dependency injection
 * TDD 
 
-<pre>
 
 
 
-
-</pre>
 ---
 
 ### [News summary](https://github.com/aniasobo/news-summary-challenge) - a very biased, tiny news summary web app 
