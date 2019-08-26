@@ -65,9 +65,7 @@ While working within an Agile team of developers, designers and product owners, 
            
             
 ---
-<video width="250" align="right" controls>
-  <source src="bear.mov" type="video/mp4">
-</video>  
+<img align="right" src="bear.png">
 
 ### 🐻 [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
 
