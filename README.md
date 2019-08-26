@@ -65,7 +65,7 @@ While working within an Agile team of developers, designers and product owners, 
            
             
 ---
-<img align="right" src="bear.png">
+<img align="right" src="bear.png" width="200">
 
 ### 🐻 [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
 
