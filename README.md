@@ -65,8 +65,9 @@ While working within an Agile team of developers, designers and product owners, 
            
             
 ---
+<img align="right" src="bear.gif">
 
-### [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
+### 🐻 [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
 
 **Tech and methodologies used:**   
 
@@ -77,12 +78,14 @@ While working within an Agile team of developers, designers and product owners, 
 * Heroku deployment  
 * database design 
 * MVC pattern
-
+    
+        
+       
 ---
 
 <img align="right" src="bank.png">
 
-### [Bank app](https://github.com/aniasobo/tech-test-bank) - a tiny command line piggy bank
+### 🦈 [Bank app](https://github.com/aniasobo/tech-test-bank) - a tiny command line piggy bank
 
 **Tech and methodologies used:**   
 
@@ -98,7 +101,7 @@ While working within an Agile team of developers, designers and product owners, 
          
 ---
 
-### [News summary](https://github.com/aniasobo/news-summary-challenge) - a very biased, tiny news summary web app 
+### 📠 [News summary](https://github.com/aniasobo/news-summary-challenge) - a very biased, tiny news summary web app 
 
 **Tech and methodologies used:**   
 
