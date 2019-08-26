@@ -33,9 +33,9 @@ While working within an Agile team of developers, designers and product owners, 
 
 ## Projects
 
-### [Forest](https://github.com/lucianmot/f.rest) - an esoteric programming language - Makers final project 
+### 🌲 [Forest - an esoteric programming language](https://github.com/lucianmot/f.rest) - Makers final project 
 
-**Tech and methodologies used** 
+**Tech and methodologies used:**   
 
 * vanilla Python
 * Python's unittest framework
@@ -47,10 +47,11 @@ While working within an Agile team of developers, designers and product owners, 
 
 ---
 
-### [Acebook](https://github.com/bengscott2/acebook-livewire) - a Facebook clone; Makers team engineering project
-
 <img align="right" src="acebook.png">
-**Tech and methodologies used** 
+
+### 👤 [Acebook - a Facebook clone](https://github.com/bengscott2/acebook-livewire) - Makers team engineering project
+
+**Tech and methodologies used:**  
 
 * Ruby on Rails 
 * Rails-associated gems: 
@@ -69,7 +70,7 @@ While working within an Agile team of developers, designers and product owners, 
 
 ### [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
 
-**Tech and methodologies used** 
+**Tech and methodologies used:**   
 
 * CSS
 * HTML 
@@ -81,11 +82,11 @@ While working within an Agile team of developers, designers and product owners, 
 
 ---
 
-### [Bank app](https://github.com/aniasobo/tech-test-bank) - a tiny command line piggy bank
-
 <img align="right" src="bank.png">
 
-**Tech and methodologies used** 
+### [Bank app](https://github.com/aniasobo/tech-test-bank) - a tiny command line piggy bank
+
+**Tech and methodologies used:**   
 
 * Ruby 
 * RSpec 
@@ -104,7 +105,7 @@ While working within an Agile team of developers, designers and product owners, 
 
 ### [News summary](https://github.com/aniasobo/news-summary-challenge) - a very biased, tiny news summary web app 
 
-**Tech and methodologies used** 
+**Tech and methodologies used:**   
 
 * vanilla JavaScript
 * CSS 
