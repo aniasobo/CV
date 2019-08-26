@@ -69,6 +69,7 @@ While working within an Agile team of developers, designers and product owners, 
 ### 🐻 [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
 
 **Tech and methodologies used:**   
+         <img align="right" src="bear-wider.png" width="250">
 
 * CSS
 * HTML 
@@ -77,7 +78,6 @@ While working within an Agile team of developers, designers and product owners, 
 * Heroku deployment  
 * database design 
 * MVC pattern
-         <img align="right" src="bear-wider.png" width="250">
        
           
             
