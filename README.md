@@ -33,13 +33,84 @@ While working within an Agile team of developers, designers and product owners, 
 
 ## Projects
 
-| Project repo | Synopsis | Tech used | Methodologies practiced |   
-| --- | --- | --- | --- |  
-| [Forest](https://github.com/lucianmot/f.rest) | an esoteric programming language - Makers final project | vanilla Python, Python's unittest framework, bash scripting | TDD, Agile, kanban, mob coding, meta programming |  
-| [Acebook](https://github.com/bengscott2/acebook-livewire) | a Facebook clone; Makers team engineering project | Rails, Rails-associated gems, CSS, HTML, JQuery, Rake, Travis, Heroku | BDD, TDD, Agile, CI, CD |  
-| [Bear](https://github.com/aniasobo/bear) | CSS animation, plus database (in progress) | CSS, HTML, Sinatra, Postgres, Heroku | database design, MVC pattern, Heroku deployment |  
-| [Bank app](https://github.com/aniasobo/tech-test-bank) | a tiny command line piggy bank | Ruby, RSpec | OOP design, encapsulation, TDD |  
-| [News summary](https://github.com/aniasobo/news-summary-challenge) | a very tiny news summary web app | vanilla JavaScript, CSS | API integration, testing with own framework, API stubbing |  
+### [Forest](https://github.com/lucianmot/f.rest) - an esoteric programming language - Makers final project 
+
+**Tech and methodologies used** 
+
+* vanilla Python
+* Python's unittest framework
+* bash scripting 
+* TDD 
+* Agile, kanban 
+* mob coding 
+* meta programming 
+
+---
+
+### [Acebook](https://github.com/bengscott2/acebook-livewire) - a Facebook clone; Makers team engineering project
+
+<img align="right" src="acebook.png">
+**Tech and methodologies used** 
+
+* Ruby on Rails 
+* Rails-associated gems: 
+* CSS, HTML 
+* JQuery 
+* CI/CD tools: Rake, Travis, Heroku  
+* BDD, TDD 
+* Agile, teamwork 
+* Continous integration, continuous deployment
+  <pre>
+
+
+</pre>
+
+---
+
+### [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
+
+**Tech and methodologies used** 
+
+* CSS
+* HTML 
+* Sinatra 
+* Postgres
+* Heroku deployment  
+* database design 
+* MVC pattern
+
+---
+
+### [Bank app](https://github.com/aniasobo/tech-test-bank) - a tiny command line piggy bank
+
+<img align="right" src="bank.png">
+
+**Tech and methodologies used** 
+
+* Ruby 
+* RSpec 
+* OOP design 
+* encapsulation
+* dependency injection
+* TDD 
+
+<pre>
+
+
+
+
+</pre>
+---
+
+### [News summary](https://github.com/aniasobo/news-summary-challenge) - a very biased, tiny news summary web app 
+
+**Tech and methodologies used** 
+
+* vanilla JavaScript
+* CSS 
+* API integration 
+* testing with own framework
+* API stubbing 
 
 
 ---
