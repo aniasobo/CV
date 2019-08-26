@@ -61,9 +61,9 @@ While working within an Agile team of developers, designers and product owners, 
 * BDD, TDD 
 * Agile, teamwork 
 * Continous integration, continuous deployment
-
-
-
+            
+           
+            
 ---
 
 ### [Bear](https://github.com/aniasobo/bear) - CSS animation, with a little database (in progress) 
@@ -92,10 +92,10 @@ While working within an Agile team of developers, designers and product owners, 
 * encapsulation
 * dependency injection
 * TDD 
-
-
-
-
+          
+           
+         
+         
 ---
 
 ### [News summary](https://github.com/aniasobo/news-summary-challenge) - a very biased, tiny news summary web app 
