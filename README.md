@@ -78,7 +78,9 @@ While working within an Agile team of developers, designers and product owners, 
 * Heroku deployment  
 * database design 
 * MVC pattern
-    
+      
+
+      
         
        
 ---
