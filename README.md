@@ -110,8 +110,8 @@ While working within an Agile team of developers, designers and product owners, 
 * vanilla JavaScript
 * CSS 
 * API integration 
-* testing with own framework
-* API stubbing 
+* testing with own framework (in progress)
+* API stubbing (in progress)
 
 
 ---
