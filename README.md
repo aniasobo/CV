@@ -27,7 +27,7 @@ While working within an Agile team of developers, designers and product owners, 
 * SQL, PostGres
 * CSS, semantic HTML 
 * RSpec, Capybara, Jasmine, Selenium, Pry and more
-* CI/CD tools, Heroku
+* CI/CD tools, Heroku, Now
 
 ---
 
@@ -138,4 +138,4 @@ An occassional side gig that I'd started as a student. I maintained several trus
   
 ## Hobbies and interests
 
-Birding, horse riding, reading books and comics, writing, linguistics, taking long walks.
+Birding, horse husbandry, reading books and comics, writing, linguistics, picking up impractical skills, taking long walks.
