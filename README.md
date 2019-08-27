@@ -34,7 +34,7 @@ While working within an Agile team of developers, designers and product owners, 
 ## Projects
 
 ### 🌲 [Forest - an esoteric programming language](https://github.com/lucianmot/f.rest) - Makers final project 
-<img align="right" width="250" src="https://media.giphy.com/media/LmH6cRdju9GDsn0DJ1/giphy.gif">  
+<img align="right" width="350" src="https://media.giphy.com/media/LmH6cRdju9GDsn0DJ1/giphy.gif">  
 
 **Tech and methodologies used:**   
 
