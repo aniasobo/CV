@@ -21,7 +21,7 @@ While working within an Agile team of developers, designers and product owners, 
 
 
 **💥 Tech skills:**  
-* JavaScript, Node.js, Express    
+* JavaScript, React, Gatsby, Node.js, Express    
 * Ruby, Rails, Sinatra   
 * Python  
 * SQL, PostGres
