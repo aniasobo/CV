@@ -1,6 +1,6 @@
 ## ANNA SOBOLEWSKA
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](http://ania.codes)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](https://github.com/aniasobo/personal-website)
 
 I became a developer because I love solving problems, making things work and automating the hard parts of life. Hi!  
   
@@ -24,7 +24,7 @@ While working within an Agile team of developers, designers and product owners, 
 * JavaScript, React, Gatsby, Node.js, Express    
 * Ruby, Rails, Sinatra   
 * Python  
-* SQL, PostGres
+* SQL, PostGres, GraphQL
 * CSS, semantic HTML 
 * RSpec, Capybara, Jasmine, Selenium, Pry and more
 * CI/CD tools, Heroku, Now
