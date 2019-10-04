@@ -1,6 +1,6 @@
 ## ANNA SOBOLEWSKA
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](https://github.com/aniasobo/personal-website)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](https://github.com/aniasobo/personal-website) 
 
 I became a developer because I love solving problems, making things work and automating the hard parts of life. Hi!  
   
